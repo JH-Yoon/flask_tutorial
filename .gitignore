@@ -12,3 +12,19 @@ htmlcov/
 dist/
 build/
 *.egg-info/
+
+### IntelliJ
+.idea/
+out/
+
+### VisualStudioCode
+.vscode/*
+.history
+
+### Eclipse
+.metadata
+.settings/
+*.launch
+.target
+.project
+.classpath
