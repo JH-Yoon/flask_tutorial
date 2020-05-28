@@ -14,7 +14,7 @@ build/
 *.egg-info/
 
 ### IntelliJ
-.idea/
+.idea/**
 out/
 
 ### VisualStudioCode
